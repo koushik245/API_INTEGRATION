@@ -1,1 +1,15 @@
 # API_INTEGRATION
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : GUNTA KOUSHIK
+
+**INTERN ID** : CT6WDS2693
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (5)](https://github.com/user-attachments/assets/b046e319-c4aa-4e0c-b4f9-49d9c6f6329a)
